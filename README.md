@@ -1,6 +1,6 @@
 # Projet 1 — Analyse des journaux d'un pare-feu
 
-**Nom / Prénom :** NOM Prénom *(à remplacer)*
+**Nom / Prénom :** Abdou DIOP
 
 ## Lancer le projet
 ```bash
